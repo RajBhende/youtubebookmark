@@ -1,77 +1,65 @@
-<div align = "center">
+# YouTube Timeline Bookmarker
 
-<img style="border-radius:80px;" width="100px" src = "./readme_assets/logo.png">
+Enhance your YouTube video experience by easily bookmarking and accessing specific timestamps within long videos.
 
-<h1 align="center"> <font size="5"> <b> Youtube Timeline Bookmarker </b></h1>
-<!-- PROJECT LOGO -->
+## Table of Contents
 
-<h2><b>📚 Bookmark timelines in Youtube videos</b></h2>
+- [Introduction](#introduction)
+- [Features](#features)
+- [Demo](#demo)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
 
-  </div>
-  
----
+## Introduction
 
-<div align="center">
-<img  src = "./readme_assets/mockup.png">
-  </div>
-  
-  <div align = "center">
+The YouTube Timeline Bookmarker is a web application designed to help users save and manage bookmarks for important timestamps within lengthy YouTube videos. Whether you're a movie enthusiast, student, coder, cook, music lover, or sports fan, this application provides an intuitive solution for efficiently navigating through content.
 
-  
-  # [DEMO LINK](https://yttb.netlify.app/)
+## Features
 
-## [Extension Code Link](https://github.com/Sriver27/YouTube-Timeline-Bookmarker)
+- **Bookmark Creation:** Easily create bookmarks for specific moments within YouTube videos.
+- **User-Friendly Interface:** Intuitive and visually appealing interface for a seamless user experience.
+- **YouTube API Integration:** Utilizes the YouTube API to synchronize bookmarks with precise timestamps.
+- **Versatility:** Suitable for a wide range of content types, including movies, lectures, tutorials, music, and sports highlights.
+- **Responsive Design:** Ensures optimal performance and usability across various devices.
 
-</div>
+## Demo
 
-<table>
-  <tr>
-    <td><img width="500px" src = "./readme_assets/mockup.png"></td>
-    <td><img width="500px" src = "./readme_assets/popup.png"></td>
-  </tr>
-  
-</table>
+![Demo GIF](demo.gif) <!-- Replace with a link to your demo GIF or video -->
 
----
+## Installation
 
-# How to use? 👀
+1. Clone the repository: `git clone https://github.com/yourusername/youtube-timeline-bookmarker.git`
+2. Navigate to the project directory: `cd youtube-timeline-bookmarker`
+3. Open `index.html` in your web browser.
 
+## Usage
 
+1. Paste the URL of the YouTube video you want to bookmark.
+2. Play the video and pause at the desired timestamp.
+3. Click the "Bookmark" button to save the timestamp.
+4. Access your bookmarks by scrolling down or navigating to the bookmarks section.
+5. Click on a bookmark to jump directly to that timestamp in the video.
 
-https://user-images.githubusercontent.com/89961974/187049658-09f1b5f9-466f-45a8-ae3f-4c9933aef70b.mov
+## Technologies Used
 
+- HTML5
+- CSS3
+- JavaScript
+- YouTube API <!-- Add any other relevant technologies or libraries -->
 
+## Contributing
 
----
+Contributions are welcome! If you have any ideas for improvements or bug fixes, feel free to open an issue or submit a pull request.
 
-## Tech Stack 💻
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/your-feature-name`.
+3. Make your changes and commit them: `git commit -m 'Add some feature'`.
+4. Push to the branch: `git push origin feature/your-feature-name`.
+5. Open a pull request.
 
----
+## License
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
-### Designed On:
-
-![Figma](https://img.shields.io/badge/Figma-FbbE99?style=for-the-badge&logo=figma&logoColor=white)
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Spyware007"><img src="https://avatars.githubusercontent.com/u/89961974?v=4?s=100" width="100px;" alt=""/><br /><sub><b>OM GAWANDE</b></sub></a><br /><a href="https://github.com/Spyware007/YouTube-Timeline-Bookmarker-Product-Page/commits?author=Spyware007" title="Code">💻</a> <a href="#data-Spyware007" title="Data">🔣</a> <a href="https://github.com/Spyware007/YouTube-Timeline-Bookmarker-Product-Page/commits?author=Spyware007" title="Documentation">📖</a> <a href="#maintenance-Spyware007" title="Maintenance">🚧</a></td>
-    <td align="center"><a href="https://github.com/Sapna127"><img src="https://avatars.githubusercontent.com/u/91309280?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sapna Kul</b></sub></a><br /><a href="#design-Sapna127" title="Design">🎨</a> <a href="#content-Sapna127" title="Content">🖋</a> <a href="https://github.com/Spyware007/YouTube-Timeline-Bookmarker-Product-Page/pulls?q=is%3Apr+reviewed-by%3ASapna127" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://github.com/Sriver27"><img src="https://avatars.githubusercontent.com/u/75061992?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Harsh Jain</b></sub></a><br /><a href="https://github.com/Spyware007/YouTube-Timeline-Bookmarker-Product-Page/commits?author=Sriver27" title="Code">💻</a> <a href="#data-Sriver27" title="Data">🔣</a> <a href="https://github.com/Spyware007/YouTube-Timeline-Bookmarker-Product-Page/commits?author=Sriver27" title="Documentation">📖</a> <a href="#maintenance-Sriver27" title="Maintenance">🚧</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project is licensed under the [MIT License](LICENSE).
